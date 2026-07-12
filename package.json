@@ -1,0 +1,30 @@
+{
+  "name": "playwright_framwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  "test:master" : "playwright test --grep @master" , 
+  "test:sanity" : "playwright test --grep @sanity" , 
+  "test:regression" : "playwright test --grep regression",
+  "test:headed" :  "playwright test --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1",
+    "allure-playwright": "^3.10.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.5.0",
+    "csv": "^6.6.1",
+    "csv-parse": "^7.0.1",
+    "fs": "^0.0.1-security",
+    "parse": "^3.4.2",
+    "xlsx": "^0.18.5"
+  }
+}

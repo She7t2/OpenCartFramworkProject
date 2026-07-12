@@ -1,0 +1,5 @@
+ 🦜 Congratulations! Your account has been successfully created.
+ 🦜 Logout is Completed
+ 🦜 Login is Completed
+ 🦜 product added to cart 
+ 🦜 Cart contents verified successfully

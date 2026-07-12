@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",          // 1. تحديث هذا السطر
+    "moduleResolution": "NodeNext",  // 2. تحديث هذا السطر ليصبح NodeNext بدلاً من node
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "types": ["node"]
+  }
+}
