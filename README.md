@@ -17,7 +17,15 @@ This is a robust, scalable, and maintainable **End-to-End Test Automation Framew
 ## 📁 Repository Structure
 
 ```text
-├── pages/                  # Page Object classes (element locators and actions)
+├── .github/workflows/      # CI/CD Pipelines (GitHub Actions configurations)
+├── .vscode/                # VS Code workspace settings and configurations
+├── pages/                  # Page Object classes (element locators and UI actions)
+├── testData/               # Test data files (JSON, constants, and mock data)
 ├── tests/                  # E2E test scripts and scenarios
-└── playwright.config.ts    # Centralized configuration (browsers, workers, timeouts, reports)
+├── utils/                  # Helper functions and utility classes
+├── .gitignore              # Files and folders ignored by Git
+├── package.json            # Project dependencies and script shortcuts
+├── playwright.config.ts    # Centralized Playwright configuration
+├── test.config.ts          # Environment and test-specific custom settings
+└── tsconfig.json           # TypeScript compilation configuration
 
