@@ -44,7 +44,7 @@ Before setting up the project, ensure you have the following installed on your l
 ## Run tests in headed mode (Visible browser):
         ``` bash 
             npx playwright test --headed
-#📊 Test Reporting
+# 📊 Test Reporting
 Playwright automatically tracks execution health. After running the tests, you can generate and open the interactive HTML test report to view screenshots, step-by-step traces, and video recordings:
 
 ## 📁 Repository Structure
