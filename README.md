@@ -14,6 +14,21 @@ This is a robust, scalable, and maintainable **End-to-End Test Automation Framew
 
 ---
 
+## 🚀 Getting Started
+
+### Prerequisites
+Before setting up the project, ensure you have the following installed on your local machine:
+* [Node.js](https://nodejs.org/) (v18 or higher recommended)
+* [Git](https://git-scm.com/) (for cloning the repository)
+
+### Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/She7t2/apiTestingProeject.git](https://github.com/She7t2/apiTestingProeject.git)
+   cd apiTestingProeject
+
+
 ## 📁 Repository Structure
 
 ```text
