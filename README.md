@@ -47,6 +47,10 @@ Before setting up the project, ensure you have the following installed on your l
 # 📊 Test Reporting
 Playwright automatically tracks execution health. After running the tests, you can generate and open the interactive HTML test report to view screenshots, step-by-step traces, and video recordings:
 
+        ```bash 
+             npx playwright show-report
+   
+
 ## 📁 Repository Structure
 
 ```text
