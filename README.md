@@ -28,6 +28,16 @@ Before setting up the project, ensure you have the following installed on your l
    git clone [https://github.com/She7t2/apiTestingProeject.git](https://github.com/She7t2/apiTestingProeject.git)
    cd apiTestingProeject
 
+## Install project dependencies:
+
+# Note: This will install all required packages including Playwright core libraries.
+     ```bash 
+         npm install
+## Running Tests
+# You can trigger the E2E test suite using the following execution commands:
+#  Run all tests in headless mode:
+     ``` bash  
+         npx playwright test
 
 ## 📁 Repository Structure
 
